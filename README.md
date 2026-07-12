@@ -16,6 +16,7 @@
 | [0088-merge-sorted-array](https://github.com/Eremey385/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Eremey385/leetcode/tree/master/0283-move-zeroes) |
 | [0941-sort-array-by-parity](https://github.com/Eremey385/leetcode/tree/master/0941-sort-array-by-parity) |
+| [1256-rank-transform-of-an-array](https://github.com/Eremey385/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Eremey385/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@
 | [0075-sort-colors](https://github.com/Eremey385/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Eremey385/leetcode/tree/master/0088-merge-sorted-array) |
 | [0941-sort-array-by-parity](https://github.com/Eremey385/leetcode/tree/master/0941-sort-array-by-parity) |
+| [1256-rank-transform-of-an-array](https://github.com/Eremey385/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Eremey385/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## String
 |  |
@@ -47,6 +49,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Eremey385/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1256-rank-transform-of-an-array](https://github.com/Eremey385/leetcode/tree/master/1256-rank-transform-of-an-array) |
 ## Sliding Window
 |  |
 | ------- |
