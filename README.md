@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Eremey385/leetcode/tree/master/0009-palindrome-number) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Eremey385/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Eremey385/leetcode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Eremey385/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+## Number Theory
+|  |
+| ------- |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Eremey385/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
