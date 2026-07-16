@@ -30,6 +30,7 @@
 | [0125-valid-palindrome](https://github.com/Eremey385/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Eremey385/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Eremey385/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Eremey385/leetcode/tree/master/0392-is-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/Eremey385/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0961-long-pressed-name](https://github.com/Eremey385/leetcode/tree/master/0961-long-pressed-name) |
 ## Sorting
@@ -47,6 +48,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Eremey385/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Eremey385/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Eremey385/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Eremey385/leetcode/tree/master/0392-is-subsequence) |
 | [0961-long-pressed-name](https://github.com/Eremey385/leetcode/tree/master/0961-long-pressed-name) |
 ## Hash Table
 |  |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Eremey385/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Eremey385/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
