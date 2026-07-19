@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Eremey385/leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Eremey385/leetcode/tree/master/0050-powx-n) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Eremey385/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Eremey385/leetcode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
@@ -77,4 +78,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Eremey385/leetcode/tree/master/0392-is-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Eremey385/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
