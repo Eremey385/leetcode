@@ -19,6 +19,7 @@
 | [0283-move-zeroes](https://github.com/Eremey385/leetcode/tree/master/0283-move-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/Eremey385/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/Eremey385/leetcode/tree/master/0941-sort-array-by-parity) |
+| [1046-max-consecutive-ones-iii](https://github.com/Eremey385/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1256-rank-transform-of-an-array](https://github.com/Eremey385/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Eremey385/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Two Pointers
@@ -62,10 +63,12 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Eremey385/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Eremey385/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1046-max-consecutive-ones-iii](https://github.com/Eremey385/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Eremey385/leetcode/tree/master/0035-search-insert-position) |
+| [1046-max-consecutive-ones-iii](https://github.com/Eremey385/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Counting
 |  |
 | ------- |
@@ -82,4 +85,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Eremey385/leetcode/tree/master/0050-powx-n) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Eremey385/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
